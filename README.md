@@ -1,8 +1,8 @@
 # the-book-of-kuiba
 
+@[TOC]
 [第一章](https://github.com/MiuNice/the-book-of-kuiba/tree/master/chapter1)
-
-[第二章](https://github.com/MiuNice/the-book-of-kuiba/tree/master/chapter2)
+##[第二章](https://github.com/MiuNice/the-book-of-kuiba/tree/master/chapter2)
 
 [第三章](https://github.com/MiuNice/the-book-of-kuiba/tree/master/chapter3)
 
